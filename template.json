@@ -130,7 +130,7 @@
                         "publisher": "f5-networks",
                         "offer": "f5-big-ip-byol",
                         "sku": "f5-big-ltm-2slot-byol",
-                        "version": Minor
+                        "version": 14.1.5.6-0.12.6
                     }
                 },
                 "networkProfile": {
