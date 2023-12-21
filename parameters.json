@@ -1,0 +1,75 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "location": {
+            "value": "centralus"
+        },
+        "networkInterfaceName1": {
+            "value": "acrdevf50123_z1"
+        },
+        "subnetName": {
+            "value": "F5ExtSubnet"
+        },
+        "virtualNetworkId": {
+            "value": "/subscriptions/360c5bd6-ba2a-4779-a248-302bfbdb04eb/resourceGroups/rg-acr-hub-network-shd-001/providers/Microsoft.Network/virtualNetworks/vnet-acr-hub-shd-001"
+        },
+        "publicIpAddressId": {
+            "value": "/subscriptions/360c5bd6-ba2a-4779-a248-302bfbdb04eb/resourceGroups/rg-acr-dev-f5-shd-001/providers/Microsoft.Network/publicIPAddresses/acrdevf5-mgmt-pip0"
+        },
+        "pipDeleteOption": {
+            "value": "Delete"
+        },
+        "virtualMachineName": {
+            "value": "acrdevf501"
+        },
+        "virtualMachineName1": {
+            "value": "acrdevf501"
+        },
+        "virtualMachineComputerName1": {
+            "value": "acrdevf501"
+        },
+        "virtualMachineRG": {
+            "value": "rg-acr-dev-f5-shd-001"
+        },
+        "osDiskType": {
+            "value": "Premium_LRS"
+        },
+        "osDiskSizeGiB": {
+            "value": 128
+        },
+        "osDiskDeleteOption": {
+            "value": "Delete"
+        },
+        "virtualMachineSize": {
+            "value": "Standard_D8s_v3"
+        },
+        "nicDeleteOption": {
+            "value": "Delete"
+        },
+        "hibernationEnabled": {
+            "value": false
+        },
+        "adminUsername": {
+            "value": "f5admin"
+        },
+        "adminPassword": {
+            "value": null
+        },
+        "diagnosticsStorageAccountName": {
+            "value": "rgacrdevf5shd001diag"
+        },
+        "diagnosticsStorageAccountId": {
+            "value": "Microsoft.Storage/storageAccounts/rgacrdevf5shd001diag"
+        },
+        "diagnosticsStorageAccountType": {
+            "value": "Standard_LRS"
+        },
+        "diagnosticsStorageAccountKind": {
+            "value": "Storage"
+        },
+        "virtualMachine1Zone": {
+            "value": "1"
+        }
+    }
+}
