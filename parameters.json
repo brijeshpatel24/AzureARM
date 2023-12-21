@@ -6,7 +6,7 @@
             "value": "centralus"
         },
         "networkInterfaceName1": {
-            "value": "acrdevf50123_z1"
+            "value": "acrdevf5-mgmt-pip0"
         },
         "subnetName": {
             "value": "F5ExtSubnet"
