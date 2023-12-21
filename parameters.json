@@ -6,7 +6,7 @@
             "value": "centralus"
         },
         "networkInterfaceName1": {
-            "value": "/subscriptions/360c5bd6-ba2a-4779-a248-302bfbdb04eb/resourceGroups/rg-acr-dev-f5-shd-001/providers/Microsoft.Network/networkInterfaces/acrdevf5-mgmt0"
+            "value": "acrdevf5-mgmt0"
         },
         "subnetName": {
             "value": "F5MgmtSubnet"
