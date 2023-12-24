@@ -6,7 +6,7 @@
             "value": "centralus"
         },
         "networkInterfaceName1": {
-            "value": "acrdevf501.ansira.com65_z1"
+            "value": "acrdevf5-mgmt0"
         },
         "subnetName": {
             "value": "F5DevMgmtSubnet"
@@ -54,7 +54,7 @@
             "value": "f5admin"
         },
         "adminPassword": {
-            "value": null
+            "value": "!MSI.msi!N33d2B3H3r3"
         },
         "diagnosticsStorageAccountName": {
             "value": "rgacrdevf5shd001diag"
