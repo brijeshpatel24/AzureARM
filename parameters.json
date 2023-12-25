@@ -15,7 +15,7 @@
             "value": "/subscriptions/360c5bd6-ba2a-4779-a248-302bfbdb04eb/resourceGroups/rg-acr-dev-f5-shd-001/providers/Microsoft.Network/virtualNetworks/vnet-acr-dev-f5-shd-001"
         },
         "publicIpAddressId": {
-            "value": "/subscriptions/360c5bd6-ba2a-4779-a248-302bfbdb04eb/resourceGroups/rg-acr-dmz-shd-002/providers/Microsoft.Network/publicIPAddresses/acrf5-mgmt-pip1"
+            "value": "/subscriptions/360c5bd6-ba2a-4779-a248-302bfbdb04eb/resourceGroups/rg-acr-dev-f5-shd-001/providers/Microsoft.Network/publicIPAddresses/acrdevf5-mgmt-pip1"
         },
         "pipDeleteOption": {
             "value": "Detach"
