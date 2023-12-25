@@ -123,7 +123,7 @@
                         "publisher": "f5-networks",
                         "offer": "f5-big-ip-byol",
                         "sku": "f5-big-all-2slot-byol",
-                        "version": "latest"
+                        "version": "14.1.506012"
                     }
                 },
                 "networkProfile": {
