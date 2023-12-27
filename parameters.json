@@ -63,7 +63,7 @@
             "value": "/subscriptions/360c5bd6-ba2a-4779-a248-302bfbdb04eb/resourceGroups/rg-acr-dev-f5-shd-001/providers/Microsoft.Storage/storageAccounts/rgacrdevf5shd001diag"
         },
         "virtualMachine1Zone": {
-            "value": "1"
+            "value": "2"
         }
     }
 }
