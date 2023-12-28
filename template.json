@@ -47,7 +47,7 @@
                         "name": "rule-acr-dev-f5-shd-001",
                         "properties": {
                             "frontendIPConfiguration": {
-                                "id": "/subscriptions/360c5bd6-ba2a-4779-a248-302bfbdb04eb/resourceGroups/rg-acr-dev-f5-shd-001/providers/Microsoft.Network/loadBalancers/lbi-acr-dev-f5-shd-002/frontendIPConfigurations/fe-acr-dev-f5-shd-001"
+                                "id": "/subscriptions/360c5bd6-ba2a-4779-a248-302bfbdb04eb/resourceGroups/rg-acr-dev-f5-shd-001/providers/Microsoft.Network/loadBalancers/lbi-acr-dev-f5-shd-001/frontendIPConfigurations/fe-acr-dev-f5-shd-001"
                             },
                             "frontendPort": 443,
                             "backendPort": 443,
@@ -56,13 +56,13 @@
                             "protocol": "TCP",
                             "loadDistribution": "Default",
                             "probe": {
-                                "id": "/subscriptions/360c5bd6-ba2a-4779-a248-302bfbdb04eb/resourceGroups/rg-acr-dev-f5-shd-001/providers/Microsoft.Network/loadBalancers/lbi-acr-dev-f5-shd-002/probes/lbi-acr-dev-f5-shd-001"
+                                "id": "/subscriptions/360c5bd6-ba2a-4779-a248-302bfbdb04eb/resourceGroups/rg-acr-dev-f5-shd-001/providers/Microsoft.Network/loadBalancers/lbi-acr-dev-f5-shd-001/probes/lbi-acr-dev-f5-shd-001"
                             },
                             "disableOutboundSnat": true,
                             "enableTcpReset": false,
                             "backendAddressPools": [
                                 {
-                                    "id": "/subscriptions/360c5bd6-ba2a-4779-a248-302bfbdb04eb/resourceGroups/rg-acr-dev-f5-shd-001/providers/Microsoft.Network/loadBalancers/lbi-acr-dev-f5-shd-002/backendAddressPools/lbi-acr-dev-f5-shd-test443-001"
+                                    "id": "/subscriptions/360c5bd6-ba2a-4779-a248-302bfbdb04eb/resourceGroups/rg-acr-dev-f5-shd-001/providers/Microsoft.Network/loadBalancers/lbi-acr-dev-f5-shd-001/backendAddressPools/lbi-acr-dev-f5-shd-test443-001"
                                 }
                             ]
                         }
