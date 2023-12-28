@@ -26,9 +26,9 @@
             "properties": {
                 "frontendIPConfigurations": [
                     {
-                        "name": "fe-acr-dev-f5-shd-001",
+                        "name": "fe-acr-dev-f5-shd-002",
                         "properties": {
-                            "privateIPAddress": "172.22.104.11",
+                            "privateIPAddress": "172.22.104.12",
                             "privateIPAddressVersion": "IPv4",
                             "privateIPAllocationMethod": "Static",
                             "subnet": {
